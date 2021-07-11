@@ -35,17 +35,25 @@ __author__ = 'Joseph Kariuki'
 
 class MyCalculator(QMainWindow):
     """
-    Main window containing the controls for the calcualtor.
+    Main window containing the controls for the calculator.
     """
 
     def __init__(self, parent=None):
         """
-        The view initializer.
+        View initializer.
         """
         super().__init__(parent)
         # Windows properties
         self.setWindowTitle('Desktop Calculator')
         self.setFixedSize(400, 400)
+
+        self._createButtons()
+
+    def _create_buttons(self):
+        """
+        Create buttons.
+        """
+        pass
 
 
 def main():
