@@ -17,7 +17,7 @@ on Windows OS ensure that [pip](https://pip.pypa.io/en/stable/) is installed.
 4. Navigate to the cloned repository or folder and identify the file [__requirements.txt__](./requirements.txt) that contains
 the libraries used in this application.
    
-5. Run the following command to install the libraries.</br>
+5. Run the following command to install the dependencies.</br>
 `pip install -r requirements.txt`
    
 6. After installation of libraries has been completed you can run the file [__calculator.py__](./calculator.py) using the command:</br>
