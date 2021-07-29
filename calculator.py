@@ -59,7 +59,7 @@ class MyCalculatorUI(QMainWindow):
         self.line_edit = QLineEdit()
         self.line_edit.setPlaceholderText('Calculations appear here')
         # Set geometry and alignment
-        self.line_edit.setFixedHeight(40)
+        self.line_edit.setFixedHeight(30)
         self.line_edit.setAlignment(Qt.AlignRight)
         # Set to read only. User cannot type and erase.
         self.line_edit.setReadOnly(True)
