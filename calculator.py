@@ -4,7 +4,7 @@ Name                 : PyQt Desktop Calculator
 Description          : Desktop calculator application.
 Date                 : 11/July/2021
 copyright            : (C) 2021 by Joseph Kariuki
-email                : joehene@gmail.com
+email                : contact@josephkariuki.com
  ***************************************************************************/
 /***************************************************************************
  *                                                                         *
