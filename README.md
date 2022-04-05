@@ -30,7 +30,9 @@ the libraries used in this application.
 ### Examples of use
 This desktop application can be used as a calculator to perform basic
 calculations such as addition, subtraction, multiplication and division and 
-angle calculations.
+angle calculations. Below is an illustration of the working of the calculator.
+
+https://user-images.githubusercontent.com/23359514/161768731-4a21e858-cb1a-4335-87af-69e9b3794ad1.mp4
 
 ### Sources
 1. Riverbank Computing - [PyQt Documentation](https://www.riverbankcomputing.com/software/pyqt/)
