@@ -25,7 +25,8 @@ the libraries used in this application.
    
 7. The calculator user interface should appear as shown below.
    </br></br>
-![Calculator Application](./calculator_ui.png "Desktop Calculator App")
+
+![Calculator Application](./calculator_ui.png "Desktop Calculator App") ![Calculator Application2](./calculator_ui2.jpg "Desktop Calculator App UI")
    
 ### Examples of use
 This desktop application can be used as a calculator to perform basic
